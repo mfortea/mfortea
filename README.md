@@ -5,7 +5,7 @@ Hi there! 👋
 I'm Mateo Fortea, Computer Engineering student at UCO (University of Córdoba) and Web Apps Developer. In my profile you can find repositories about personal (just for fun) and academy projects.
 
 ## ⚙️ My projects
-My main projects are mainly written in PHP and Java (but I also have some C, C++ or Pyhton small projects too), but I am learning and developing in server-side JavaScript (NodeJS) new technologies for web development. You can find HTML5 and CSS3 static projects as part of my start in web application development.
+My main projects are mainly written in PHP and Java (but I also have some C, C++ or Pyhton small projects too), I am learning and developing in server-side JavaScript (NodeJS) new technologies for web development. You can find HTML5 and CSS3 static projects as part of my start in web application development.
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -19,6 +19,7 @@ For databases I have worked with MySQL (and MariaDB), Oracle SQL, Microsoft SQL 
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Oracle](https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
