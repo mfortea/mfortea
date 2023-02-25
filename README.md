@@ -33,7 +33,7 @@ I have used very different frameworks, such as Symfony, Spring, JSF, Svelte, Exp
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 
 
-I mainly code with Visual Studio and Sublime Text, but I have also used NetBeans for Java and IntelliJ IDEA development. I use macOS, Windows and Linux (Debian distributions) interchangeably as an operating system.
+I mainly code with Visual Studio and Sublime Text, but I have also used NetBeans for Java and IntelliJ IDEA development. I use macOS, Windows and Linux (Debian distributions) interchangeably as my daily use OS.
 
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
