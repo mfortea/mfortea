@@ -50,7 +50,9 @@
 
 ### [![mfortea - Siteme](https://img.shields.io/static/v1?label=mfortea&message=Siteme&color=blue&logo=github)](https://github.com/mfortea/Siteme)
 - 📝 Location discovery PWA with dark/light mode and push notifications. Integrates multiple mapping APIs.
-- ⚙️ **Developed using:** Symfony 5, PHP, Bootstrap, Google Maps API  
+- ⚙️ **Developed using:** Symfony 5, PHP, Bootstrap, Google Maps API
+
+<br>
 
 ## 📫 Get in Touch
 
